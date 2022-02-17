@@ -6,7 +6,7 @@
 
 2, Create and Write a "Dockerfile", "docker-compose.yml"
 
-3, Type at console "docker-compose build" → "docker-compose run --rm next npx create-react-app . --template typescript"
+3, Type at console "docker-compose build" → "docker-compose run --rm react npx create-react-app . --template typescript"
 
 4, Start the Docker "docker-compose up -d"
 
